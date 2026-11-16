@@ -1,8 +1,6 @@
-# GraminConnect
-<!DOCTYPE html>
+
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Gramin Connect</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#fff;--cream:#faf6ea;--ink:#1d2b22;--dg:#14532d;--g:#2f855a;--lg:#e3f2e8;--mut:#5b6b60;--bd:#e1dccb;--warn:#fff4d6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
